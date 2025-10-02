@@ -1,0 +1,4 @@
+[submodule "oflops"]
+	branch = master
+[submodule "openflow"]
+	branch = master
